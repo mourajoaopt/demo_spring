@@ -1,0 +1,4 @@
+com\example\demo\Repository\MasterRepository.class
+com\example\demo\DemoSpringApplication.class
+com\example\demo\controller\ControllerMaster.class
+com\example\demo\model\Master.class
